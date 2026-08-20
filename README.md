@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:06b6d4&height=200&section=header&text=RAMA%20RAMDHANI&fontSize=44&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20and%20Mobile%20Developer%20%7C%20ITBS%20Student&descSize=16&descAlignY=65" width="100%" alt="Rama Ramdhani Header Banner" />
+<!-- Epic Large Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:1e1b4b,50:7c3aed,80:3b82f6,100:06b6d4&height=300&section=header&text=RAMA%20RAMDHANI&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20%26%20Mobile%20Developer%20%7C%20ITBS%20Indonesia&descSize=20&descAlignY=58" width="100%" alt="Rama Ramdhani Large Header Banner" />
 
 <br/>
 
-<!-- Modern Animated Typing Banner -->
+<!-- Epic Typing SVG Header -->
 <a href="https://github.com/Rama7466">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&repeat=true&width=720&height=60&lines=Welcome+To+Rama%27s+Cyber+Space%21;Full+Stack+Developer+%28Laravel+%7C+Java+%7C+Python%29;Mobile+App+Developer+%28Android+Native%29;Building+High-Performance+and+Scalable+Apps;ITBS+Student+%7C+Continuous+Learner" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&repeat=true&width=800&height=70&lines=Welcome+to+Rama%27s+Cyber+Space%21;Full+Stack+Developer+%28Laravel+%7C+Java+%7C+Python%29;Mobile+App+Developer+%28Android+Native%29;Crafting+High-Performance+and+Scalable+Apps;ITBS+Student+%7C+Continuous+Learner" alt="Typing SVG Banner" />
 </a>
 
 <br/><br/>

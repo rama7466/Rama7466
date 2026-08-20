@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Large Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=RAMA%20RAMDHANI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20and%20Mobile%20Developer%20%7C%20ITBS%20Indonesia&descSize=18&descAlignY=58" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=RAMA%20RAMDHANI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack&descSize=18&descAlignY=58" width="100%" alt="Header Banner" />
 
 <br/>
 

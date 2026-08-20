@@ -1,153 +1,190 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&lines=Halo+%F0%9F%91%8B+Saya+Rama+Ramdhani;Full+Stack+Developer+%F0%9F%92%BB;Mobile+Developer+%F0%9F%93%B1;Laravel+%7C+Java+%7C+Python+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<div align="center">
 
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:c084fc,100:3b82f6&height=240&section=header&text=Rama%20Ramdhani&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%F0%9F%92%BB%20Full%20Stack%20%26%20Mobile%20Developer%20%7C%20ITBS%20Student&descSize=18&descAlignY=58" width="100%" />
+
+<!-- Typing Animation -->
+<a href="https://github.com/Rama7466">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&repeat=true&width=650&height=70&lines=👋+Halo!+Selamat+Datang+di+Profil+Saya;💻+Full+Stack+Developer+(Laravel+%7C+Java+%7C+Python);📱+Mobile+App+Developer+(Android);🚀+Selalu+Antusias+Belajar+Teknologi+Baru!" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Counter Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rama7466&label=Profile+Views&color=a855f7&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Rama7466?label=Followers&style=flat-square&color=a855f7" alt="Followers" />
-  <img src="https://img.shields.io/badge/Repos-38+-a855f7?style=flat-square" alt="Repos" />
+  <img src="https://komarev.com/ghpvc/?username=Rama7466&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/Rama7466?tab=followers">
+    <img src="https://img.shields.io/github/followers/Rama7466?label=FOLLOWERS&style=for-the-badge&color=c084fc&logo=github&logoColor=white" alt="Followers" />
+  </a>
+  <a href="https://github.com/Rama7466?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-38+-3b82f6?style=for-the-badge&logo=git&logoColor=white" alt="Repos" />
+  </a>
 </p>
 
----
+</div>
 
-### 🧑‍💻 About Me
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## ⚡ &nbsp;About Me
 
 ```yaml
-name: Rama Ramdhani
-location: Indonesia 🇮🇩
-education: ITBS (Institut Teknologi dan Bisnis)
-role: Full Stack Developer & Mobile Developer
-currently_learning:
-  - Advanced Laravel & API Development
-  - Android Mobile Development  
-  - Python Automation & Scripting
-goals_2026:
-  - Master Full Stack Development
-  - Build Production-Ready Mobile Apps
-  - Contribute to Open Source
-fun_fact: "I turn ☕ into <code/>"
+🧑‍💻 Developer : Rama Ramdhani
+🎓 Education : ITBS (Institut Teknologi dan Bisnis)
+📍 Location  : Indonesia 🇮🇩
+💼 Focus     : Web Development, Backend Systems & Mobile Apps
+🌱 Learning  : Advanced Laravel Architecture, Android Development & Python Scripting
+📫 Reach Me  : GitHub @Rama7466
+⚡ Motto     : "Transforming ideas into clean, functional code."
 ```
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**Languages:**
+<br/>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🛠️ &nbsp;Tech Stack & Tools
 
-**Frameworks & Tools:**
+<div align="center">
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 💻 Programming Languages & Technologies
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,java,python,js,html,css,laravel,nodejs,bootstrap,androidstudio,mysql,git,vscode,postman&perline=7&theme=dark" alt="My Tech Stack" />
+</a>
 
----
+<br/><br/>
 
-### 📊 GitHub Stats
-
+### 🏷️ Badges Breakdown
 <p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 📌 &nbsp;Featured Repositories
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 Hospital App</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square" />
+      </p>
+      <p>Sistem Informasi Manajemen Rumah Sakit berbasis web menggunakan Laravel & Blade.</p>
+      <p align="center">
+        <a href="https://github.com/rama7466/hospital-app"><b>🔗 Lihat Repository »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚗 ITBS Car Rental</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/BNSP_UJIKOM-8B5CF6?style=flat-square" />
+      </p>
+      <p>Aplikasi Sistem Rental Mobil untuk Ujikom Sertifikasi BNSP di ITBS.</p>
+      <p align="center">
+        <a href="https://github.com/rama7466/ITBSCarRental"><b>🔗 Lihat Repository »</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 KontenKuu App</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+      </p>
+      <p>Aplikasi Mobile Manajemen Konten & Platform Backend Services.</p>
+      <p align="center">
+        <a href="https://github.com/rama7466/kontenkuuApp"><b>🔗 Lihat Repository »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏞️ Info Wisata Bogor</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Mobile-3DDC84?style=flat-square" />
+      </p>
+      <p>Aplikasi Mobile Informasi Destinasi Wisata Kota & Kabupaten Bogor (UTS Mobile ITBS).</p>
+      <p align="center">
+        <a href="https://github.com/rama7466/InfoWisataBogor"><b>🔗 Lihat Repository »</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 📈 &nbsp;Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rama7466&bg_color=0d1117&color=8b5cf6&line=c084fc&point=ffffff&area=true&area_color=8b5cf6&hide_border=true&custom_title=Rama's%20Activity%20Graph" width="100%" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rama7466&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rama7466&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Rama7466&theme=radical&hide_border=true&background=0d1117" />
-    <img width="48%" src="https://streak-stats.demolab.com?user=Rama7466&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </picture>
-</p>
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rama7466&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8" />
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rama7466&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  </picture>
-</p>
+<br/>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🏆 GitHub Trophies
+<br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Rama7466&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Rama7466&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-  </picture>
-</p>
+<div align="center">
 
----
+### 🤝 &nbsp;Connect with Me
 
-### 📌 Featured Projects
+<a href="https://github.com/Rama7466">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/rama7466/hospital-app">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Rama7466&repo=hospital-app&theme=radical&hide_border=true&bg_color=0d1117" />
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rama7466&repo=hospital-app&theme=radical&hide_border=true" alt="hospital-app" />
-    </picture>
-  </a>
-  <a href="https://github.com/rama7466/ITBSCarRental">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Rama7466&repo=ITBSCarRental&theme=radical&hide_border=true&bg_color=0d1117" />
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rama7466&repo=ITBSCarRental&theme=radical&hide_border=true" alt="ITBSCarRental" />
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/rama7466/kontenkuuApp">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Rama7466&repo=kontenkuuApp&theme=radical&hide_border=true&bg_color=0d1117" />
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rama7466&repo=kontenkuuApp&theme=radical&hide_border=true" alt="kontenkuuApp" />
-    </picture>
-  </a>
-  <a href="https://github.com/rama7466/InfoWisataBogor">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Rama7466&repo=InfoWisataBogor&theme=radical&hide_border=true&bg_color=0d1117" />
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rama7466&repo=InfoWisataBogor&theme=radical&hide_border=true" alt="InfoWisataBogor" />
-    </picture>
-  </a>
-</p>
+<br/><br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&repeat=true&width=500&lines=Terima+kasih+sudah+mampir!+😊;Jangan+lupa+star+repository+saya!+⭐" alt="Footer Typing" />
 
-### 📈 Contribution Graph
+<br/><br/>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rama7466&theme=redical&hide_border=true&area=true&custom_title=Rama's%20Contribution%20Graph)
+<!-- Animated Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:c084fc,100:3b82f6&height=120&section=footer&animation=twinkling" width="100%" />
 
----
-
-### 🐍 Watch the Snake Eat My Contributions!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-</p>
-
----
-
-<p align="center">
-  <b>⭐ Jangan lupa star repo saya ya! ⭐</b>
-  <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=400&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%8A;Let's+connect+and+collaborate!+%F0%9F%A4%9D" alt="Footer Typing" />
-</p>
+</div>

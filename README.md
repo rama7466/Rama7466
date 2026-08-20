@@ -1,16 +1,18 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e1b4b,70:7c3aed,100:06b6d4&height=240&section=header&text=Rama%20Ramdhani&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer%20%7C%20ITBS%20Student&descSize=17&descAlignY=58" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:06b6d4&height=200&section=header&text=RAMA%20RAMDHANI&fontSize=44&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20and%20Mobile%20Developer%20%7C%20ITBS%20Student&descSize=16&descAlignY=65" width="100%" alt="Rama Ramdhani Header Banner" />
 
-<!-- Dynamic Typing SVG -->
+<br/>
+
+<!-- Modern Animated Typing Banner -->
 <a href="https://github.com/Rama7466">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&repeat=true&width=680&height=50&lines=Welcome+to+Rama%27s+Cyber+Space%21;Full+Stack+Developer+%28Laravel+%7C+Java+%7C+Python%29;Mobile+App+Developer+%28Android+Native%29;Building+Modern%2C+Scalable+%26+High-Performance+Apps;ITBS+Student+%7C+Always+Learning+%26+Innovating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&repeat=true&width=720&height=60&lines=👋+Selamat+Datang+di+Rama%27s+Cyber+Space%21;💻+Full+Stack+Developer+%28Laravel+%7C+Java+%7C+Python%29;📱+Mobile+App+Developer+%28Android+Native%29;🚀+Building+High-Performance+%26+Scalable+Apps;🎓+ITBS+Student+%7C+Continuous+Learner" alt="Typing SVG Banner" />
 </a>
 
 <br/><br/>
 
-<!-- Metrics Badges Bar -->
+<!-- Glowing Badges & Metrics Bar -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rama7466&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/Rama7466?tab=followers">
@@ -71,7 +73,7 @@
 
   <br/>
 
-  <!-- Interactive SkillIcons Grid -->
+  <!-- SkillIcons Grid -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,java,androidstudio,python,js,html,css,bootstrap,tailwind,nodejs,mysql,git,docker,postman,vscode,linux&perline=9&theme=dark" alt="My Tech Stack Icons" />
   </a>
@@ -229,6 +231,6 @@
   <br/><br/>
 
   <!-- Animated Footer Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e1b4b,70:7c3aed,100:06b6d4&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:06b6d4&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
